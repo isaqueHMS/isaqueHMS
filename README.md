@@ -1,5 +1,5 @@
 # bem vindo ao meu perfil
-🚀 Estudante de TI | 👨‍💻 Aprendendo Java | 💻 Explorando o mundo da programação e desenvolvimento de aplicativos
+🚀 Estudante de TI | 👨‍💻 Aprendendo Java | 💻 Explorando o mundo da programação e desenvolvimento de aplicativos com flutter, basico é claro!😔
 
 Atualmente em busca de minhas habilidades de aprimoramento e aprendizagem de novas tecnologias para me tornar um desenvolvedor completo. Curioso sobre sistemas, programação orientada a objetos e sempre pronto para novos desafios.
 
